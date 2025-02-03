@@ -1,4 +1,4 @@
-package burne.springframework.sfg_pet_clinic;
+package burne.springframework.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

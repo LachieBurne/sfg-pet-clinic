@@ -1,4 +1,4 @@
-package burne.springframework.sfg_pet_clinic.model;
+package burne.springframework.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
